@@ -1,0 +1,12 @@
+{
+    "overrides": [
+      {
+        "files": ["src/charting_library/charting_library.esm.js"],
+        "rules": {
+          "no-unused-expressions": "off",
+          "no-restricted-globals": "off"
+        }
+      }
+    ]
+  }
+  
